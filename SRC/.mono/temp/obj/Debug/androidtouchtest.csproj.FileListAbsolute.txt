@@ -1,0 +1,9 @@
+D:\_Godot3xGames\androidtouchtest\.mono\temp\bin\Debug\androidtouchtest.dll
+D:\_Godot3xGames\androidtouchtest\.mono\temp\bin\Debug\androidtouchtest.pdb
+D:\_Godot3xGames\androidtouchtest\.mono\temp\obj\Debug\androidtouchtest.csproj.AssemblyReference.cache
+D:\_Godot3xGames\androidtouchtest\.mono\temp\obj\Debug\androidtouchtest.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Godot3xGames\androidtouchtest\.mono\temp\obj\Debug\androidtouchtest.AssemblyInfoInputs.cache
+D:\_Godot3xGames\androidtouchtest\.mono\temp\obj\Debug\androidtouchtest.AssemblyInfo.cs
+D:\_Godot3xGames\androidtouchtest\.mono\temp\obj\Debug\androidtouchtest.csproj.CoreCompileInputs.cache
+D:\_Godot3xGames\androidtouchtest\.mono\temp\obj\Debug\androidtouchtest.dll
+D:\_Godot3xGames\androidtouchtest\.mono\temp\obj\Debug\androidtouchtest.pdb

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = androidtouchtest
+build_property.ProjectDir = D:\_Godot3xGames\androidtouchtest\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
